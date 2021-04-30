@@ -1,0 +1,27 @@
+{ "timestamp": 1554933794.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554933794.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554933795.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554933795.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554933995.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554933995.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554934235.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554934235.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554934534.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554934534.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554934833.023, "currencyPair": "CNYAUD", "alert": "rising", "seconds": 1040 }
+{ "timestamp": 1554934833.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554934833.023, "currencyPair": "CNYUSD", "alert": "rising", "seconds": 1041 }
+{ "timestamp": 1554934833.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554935132.023, "currencyPair": "CNYAUD", "alert": "rising", "seconds": 1339 }
+{ "timestamp": 1554935132.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554935132.023, "currencyPair": "CNYUSD", "alert": "rising", "seconds": 1340 }
+{ "timestamp": 1554935132.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554935431.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554935730.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554936029.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554936030.023, "currencyPair": "CNYAUD", "alert": "spotChange" }
+{ "timestamp": 1554936328.023, "currencyPair": "CNYAUD", "alert": "falling", "seconds": 1196 }
+{ "timestamp": 1554936329.023, "currencyPair": "CNYUSD", "alert": "falling", "seconds": 1197 }
+{ "timestamp": 1554936330.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554936331.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
+{ "timestamp": 1554936332.023, "currencyPair": "CNYUSD", "alert": "spotChange" }
