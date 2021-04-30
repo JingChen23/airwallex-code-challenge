@@ -41,10 +41,10 @@ public class App {
     public static void main(String[] args) {
         Reader reader = new Reader();
         App app = new App();
-        String arg = "example/input1.jsonl";
+//        String arg = "example/input1.jsonl";
         clearTheOutputFile();
 
-        reader.read(arg)
+        reader.read(args[0])
                 .forEach(currencyConversionRate -> handleOneCCRData(currencyConversionRate));
     }
 }
